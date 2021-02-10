@@ -1,0 +1,3 @@
+com\Facebook\testCases\LoginPageTest.class
+com\Facebook\testCases\CreateNewAccountPageTest.class
+com\Facebook\testCases\ForgotPasswordPageTest.class

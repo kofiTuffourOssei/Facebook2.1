@@ -1,0 +1,6 @@
+com\Facebook\pages\CreateNewAccountPage.class
+com\Facebook\pages\LoginPage.class
+com\Facebook\utilities\Capture.class
+com\Facebook\utilities\Reporting.class
+com\Facebook\pages\ForgotPasswordPage.class
+com\Facebook\base\BaseClass.class

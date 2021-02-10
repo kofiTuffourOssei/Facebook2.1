@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Main test" duration-ms="5335" started-at="2021-02-09T20:57:50 CST" finished-at="2021-02-09T20:57:56 CST">
+    <groups>
+    </groups>
+    <test name="Facebook UI Test" duration-ms="5335" started-at="2021-02-09T20:57:50 CST" finished-at="2021-02-09T20:57:56 CST">
+      <class name="com.Facebook.testCases.LoginPageTest">
+        <test-method status="PASS" signature="setUpLogin()[pri:0, instance:com.Facebook.testCases.LoginPageTest@65e2dbf3]" name="setUpLogin" is-config="true" duration-ms="5005" started-at="2021-02-09T20:57:51 CST" finished-at="2021-02-09T20:57:56 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLogin -->
+        <test-method status="PASS" signature="testemailField()[pri:0, instance:com.Facebook.testCases.LoginPageTest@65e2dbf3]" name="testemailField" duration-ms="88" started-at="2021-02-09T20:57:56 CST" finished-at="2021-02-09T20:57:56 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testemailField -->
+        <test-method status="PASS" signature="testepassword()[pri:1, instance:com.Facebook.testCases.LoginPageTest@65e2dbf3]" name="testepassword" duration-ms="67" started-at="2021-02-09T20:57:56 CST" finished-at="2021-02-09T20:57:56 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testepassword -->
+        <test-method status="PASS" signature="testloginButton()[pri:2, instance:com.Facebook.testCases.LoginPageTest@65e2dbf3]" name="testloginButton" duration-ms="57" started-at="2021-02-09T20:57:56 CST" finished-at="2021-02-09T20:57:56 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloginButton -->
+      </class> <!-- com.Facebook.testCases.LoginPageTest -->
+    </test> <!-- Facebook UI Test -->
+  </suite> <!-- Main test -->
+</testng-results>

@@ -1,0 +1,18 @@
+<suite name="Main test">
+    <test name="Facebook UI Test">
+        <classes>
+            <class name="com.Facebook.testCases.LoginPageTest">
+
+            </class>
+        </classes>
+
+    </test>
+    <Listeners>
+        <Listener name="com.Facebook.utilities.Reporting">
+
+        </Listener>
+    </Listeners>
+
+
+
+</suite>
