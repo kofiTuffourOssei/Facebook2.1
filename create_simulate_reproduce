@@ -1,0 +1,4 @@
+To simulate or reproduce user experience;
+-Run Create New Account Page Test
+-Utilize the created account credentials to Run / Test the Login Page
+-If user forgets password,use account page details/credentials to Test ForgotPasswordPage.
