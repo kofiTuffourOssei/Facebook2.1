@@ -1,0 +1,3 @@
+Optional text file to be used as readme! THANKS!
+  //\\
+==    ==
